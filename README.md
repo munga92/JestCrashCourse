@@ -1,0 +1,1 @@
+Jest Crash course reviewing Jest configuration on a JS proyect, use of 'expect', 'toEqual', 'toBeFalsy', 'toBeTruthy', 'toThrow', using promises and async/await, mocking tests, 'jest.fn' and the use of spy.
